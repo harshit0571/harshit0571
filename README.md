@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Chadha</h1>
 <h3 align="center">A first year computer science student from Chitkara University</h3>
 
-- 🔭 I’m currently working as a contributor in **Girlscript Summer of Coding**
-
 - 🌱 I’m currently learning **C++**
 
 <h3 align="left">Connect with me:</h3>
