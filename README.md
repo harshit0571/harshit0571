@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Chadha</h1>
-<h3 align="center">A first year computer science student from Chitkara University</h3>
+<h3 align="center">A second year computer science student from Chitkara University</h3>
 
 - 🌱 I’m currently learning **React Native**
 
