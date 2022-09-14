@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
-</div>  
-  
+<h1 align="center">Hi 👋, I'm Harshit Chadha</h1>
 
 ### <div align="center">I'm Harshit a 2nd year computer science student  🚀</div>  
   
