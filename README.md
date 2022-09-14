@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Chadha</h1>
 
-### <div align="center">I'm Harshit a 2nd year computer science student  🚀</div>  
+### <div align="center">a 2nd year computer science student  🚀</div>  
   
 
 - 🔭 I’m currently exploring devops and opensource field  
