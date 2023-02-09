@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Chadha((Gay)</h1>
+<h1 align="center">Hi 👋, I'm Harshit Chadha </h1>
 
 ### <div align="center">a 2nd year computer science student  🚀</div>  
   
