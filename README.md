@@ -9,10 +9,10 @@
 
   <div align="left">
 
-- 🔭 I’m currently exploring devops and opensource   
+- 🔭 I am currently exploring devops and opensource   
   
 
-- 🌱 I’m currently learning NextJs  
+- 🌱 I am currently learning NextJs  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -51,5 +51,4 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=harshit0571&&style=flat-square" align="center" /> 
 </div>  
-
 
