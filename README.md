@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Chadha </h1>
 
-### <div align="center">a 3rd year computer science student  🚀</div>  
+### <div align="center">Software Engineer I at GeekyAnts 🚀</div>  
   
   <br/>
   
@@ -9,7 +9,7 @@
 
   <div align="left">
 
-- 🔭 I’m currently exploring devops and opensource   
+- 🔭 I’m a 3rd year computer science student
   
 
 - 🌱 I’m currently learning NextJs  
